@@ -1,0 +1,8 @@
+{
+  "name": "Carrom Tournament - 2 Consecutive Wins to Qualify",
+  "description": "Professional 8-team Carrom Tournament system with secret mystery box draw, consecutive-win bracket logic, realtime sync, and champion celebration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

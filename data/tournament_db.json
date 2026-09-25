@@ -1,0 +1,1099 @@
+{
+  "metadata": {
+    "id": "carrom-tournament-2026",
+    "name": "CARROM TOURNAMENT",
+    "subtitle": "2 CONSECUTIVE WINS TO QUALIFY",
+    "state": "SETUP",
+    "championTeamId": null,
+    "runnerUpTeamId": null,
+    "thirdPlaceTeamId": null,
+    "fourthPlaceTeamId": null,
+    "mysteryDrawOpenedAt": null,
+    "startedAt": null,
+    "completedAt": null
+  },
+  "users": [
+    {
+      "id": "user_admin",
+      "username": "admin",
+      "passwordHash": "dc5ff0517ba090c48fea46eac4d7ff60:15e8e9aaaace261e66140f678e85566ad1f9a06824d28b966a9687ad5d10e89656c2346a472b48e39911880db6bc3b9b6340986019fe5f4065ae900599235d6f",
+      "role": "admin",
+      "teamId": null,
+      "teamName": null,
+      "isEnabled": true,
+      "createdAt": "2026-09-25T10:26:26.916Z"
+    },
+    {
+      "id": "user_team_a",
+      "username": "team_a",
+      "passwordHash": "c7508062a0e827e1e50729b0cfda53b4:f8dcf91ed3b8212edfc361ec73ebaf5e693c94d9ff97e3b8124d901d751aa3ad6765af575b25ebaf173f14c29cbc8b16d4ebb38a3bc74f13fc41a990ae5f1c73",
+      "role": "team",
+      "teamId": "A",
+      "teamName": "Duo Devils",
+      "isEnabled": true,
+      "createdAt": "2026-09-25T10:26:26.923Z"
+    },
+    {
+      "id": "user_team_b",
+      "username": "team_b",
+      "passwordHash": "81f3cbff6aa96e74bf183552a22ad0c3:c4e92b44bb447d514c082c44bbdf74184a3b79a3d16de64d4630534989d6b45b63777605631e151ddc959b6bd497b05c34d1e75d15c2ab1ad67efdade8842f3a",
+      "role": "team",
+      "teamId": "B",
+      "teamName": "RCC",
+      "isEnabled": true,
+      "createdAt": "2026-09-25T10:26:26.930Z"
+    },
+    {
+      "id": "user_team_c",
+      "username": "team_c",
+      "passwordHash": "f391db53514122d91f35253fc8b66032:0a94d942d08b4cc589852fab9c0b939f3398cb000ab05cf018885b16a8f2a2b5208cb0e03241203f9b4ea28bc70c9a6b60ea620f57e353c311b1988a751b7d94",
+      "role": "team",
+      "teamId": "C",
+      "teamName": "Super Strikers",
+      "isEnabled": true,
+      "createdAt": "2026-09-25T10:26:26.936Z"
+    },
+    {
+      "id": "user_team_d",
+      "username": "team_d",
+      "passwordHash": "2a07a4868489230981215163bf4fce7c:ed612e66f3ef1e3ab4b5ca2e786445080fc7593c3e15e4b14d8ba9d372e048e764242dbf3ab6a2193ba03dfd3fcc00e68397ee423b760d4c507d1f8feea20ca0",
+      "role": "team",
+      "teamId": "D",
+      "teamName": "Ayan",
+      "isEnabled": true,
+      "createdAt": "2026-09-25T10:26:26.943Z"
+    },
+    {
+      "id": "user_team_e",
+      "username": "team_e",
+      "passwordHash": "8df3bce6935e396e3e77a5015c484880:762368bb488c6285cf4c6ece601d3b1a382aff5597017c5b40f8791a09d64f07da543aa37afc5bcaf99b9308879a2d7ad67f0873ae9e59c8574fe0b337e5057f",
+      "role": "team",
+      "teamId": "E",
+      "teamName": "Idi Minnal",
+      "isEnabled": true,
+      "createdAt": "2026-09-25T10:26:26.949Z"
+    },
+    {
+      "id": "user_team_f",
+      "username": "team_f",
+      "passwordHash": "d19d648d8e261d385c82c2bd683d20bd:2e6a18c39d665c1fb71795267b471a99aeb6727895fe3713d5c3c0e8e6172a208107d6b38276ec9c8711d48d868e0c208892c64591dec58b93eff5b73915fcd4",
+      "role": "team",
+      "teamId": "F",
+      "teamName": "Anbu Vagaira",
+      "isEnabled": true,
+      "createdAt": "2026-09-25T10:26:26.955Z"
+    },
+    {
+      "id": "user_team_g",
+      "username": "team_g",
+      "passwordHash": "ba93540efc0d8a8aa9a517099d171be9:930f579cce98b56d79c8d419895a4bd4ac8a8832b7ac2e3c2ecd13146a348a73d9c85ad7eb792d569cd9674ec12cf47e510739b88469863ee6794a6616ed41ca",
+      "role": "team",
+      "teamId": "G",
+      "teamName": "2-Peru Modhi Paaru",
+      "isEnabled": true,
+      "createdAt": "2026-09-25T10:26:26.962Z"
+    },
+    {
+      "id": "user_team_h",
+      "username": "team_h",
+      "passwordHash": "00c85967c2d671ae82d00d1991f84809:3085e6f2ec3f7647576b99e826b3f82d91c020d9239106dce329463d54e7e5758e4e6643cae525d40647fad954f94d02229f86180bd0a6a406624422ab950025",
+      "role": "team",
+      "teamId": "H",
+      "teamName": "Nanga 4 La Pathi Peru",
+      "isEnabled": true,
+      "createdAt": "2026-09-25T10:26:26.968Z"
+    }
+  ],
+  "teams": {
+    "A": {
+      "id": "A",
+      "name": "Duo Devils",
+      "assignedBox": null,
+      "claimedByUserId": null,
+      "totalMatches": 0,
+      "wins": 0,
+      "losses": 0,
+      "consecutiveWins": 0,
+      "status": "ACTIVE",
+      "qualifiedSlot": null,
+      "eliminatedSlot": null,
+      "finalPosition": null
+    },
+    "B": {
+      "id": "B",
+      "name": "RCC",
+      "assignedBox": null,
+      "claimedByUserId": null,
+      "totalMatches": 0,
+      "wins": 0,
+      "losses": 0,
+      "consecutiveWins": 0,
+      "status": "ACTIVE",
+      "qualifiedSlot": null,
+      "eliminatedSlot": null,
+      "finalPosition": null
+    },
+    "C": {
+      "id": "C",
+      "name": "Super Strikers",
+      "assignedBox": null,
+      "claimedByUserId": null,
+      "totalMatches": 0,
+      "wins": 0,
+      "losses": 0,
+      "consecutiveWins": 0,
+      "status": "ACTIVE",
+      "qualifiedSlot": null,
+      "eliminatedSlot": null,
+      "finalPosition": null
+    },
+    "D": {
+      "id": "D",
+      "name": "Ayan",
+      "assignedBox": null,
+      "claimedByUserId": null,
+      "totalMatches": 0,
+      "wins": 0,
+      "losses": 0,
+      "consecutiveWins": 0,
+      "status": "ACTIVE",
+      "qualifiedSlot": null,
+      "eliminatedSlot": null,
+      "finalPosition": null
+    },
+    "E": {
+      "id": "E",
+      "name": "Idi Minnal",
+      "assignedBox": null,
+      "claimedByUserId": null,
+      "totalMatches": 0,
+      "wins": 0,
+      "losses": 0,
+      "consecutiveWins": 0,
+      "status": "ACTIVE",
+      "qualifiedSlot": null,
+      "eliminatedSlot": null,
+      "finalPosition": null
+    },
+    "F": {
+      "id": "F",
+      "name": "Anbu Vagaira",
+      "assignedBox": null,
+      "claimedByUserId": null,
+      "totalMatches": 0,
+      "wins": 0,
+      "losses": 0,
+      "consecutiveWins": 0,
+      "status": "ACTIVE",
+      "qualifiedSlot": null,
+      "eliminatedSlot": null,
+      "finalPosition": null
+    },
+    "G": {
+      "id": "G",
+      "name": "2-Peru Modhi Paaru",
+      "assignedBox": null,
+      "claimedByUserId": null,
+      "totalMatches": 0,
+      "wins": 0,
+      "losses": 0,
+      "consecutiveWins": 0,
+      "status": "ACTIVE",
+      "qualifiedSlot": null,
+      "eliminatedSlot": null,
+      "finalPosition": null
+    },
+    "H": {
+      "id": "H",
+      "name": "Nanga 4 La Pathi Peru",
+      "assignedBox": null,
+      "claimedByUserId": null,
+      "totalMatches": 0,
+      "wins": 0,
+      "losses": 0,
+      "consecutiveWins": 0,
+      "status": "ACTIVE",
+      "qualifiedSlot": null,
+      "eliminatedSlot": null,
+      "finalPosition": null
+    }
+  },
+  "mysteryBoxes": [
+    {
+      "boxNumber": 1,
+      "isLocked": false,
+      "claimedByTeamId": null,
+      "claimedAt": null
+    },
+    {
+      "boxNumber": 2,
+      "isLocked": false,
+      "claimedByTeamId": null,
+      "claimedAt": null
+    },
+    {
+      "boxNumber": 3,
+      "isLocked": false,
+      "claimedByTeamId": null,
+      "claimedAt": null
+    },
+    {
+      "boxNumber": 4,
+      "isLocked": false,
+      "claimedByTeamId": null,
+      "claimedAt": null
+    },
+    {
+      "boxNumber": 5,
+      "isLocked": false,
+      "claimedByTeamId": null,
+      "claimedAt": null
+    },
+    {
+      "boxNumber": 6,
+      "isLocked": false,
+      "claimedByTeamId": null,
+      "claimedAt": null
+    },
+    {
+      "boxNumber": 7,
+      "isLocked": false,
+      "claimedByTeamId": null,
+      "claimedAt": null
+    },
+    {
+      "boxNumber": 8,
+      "isLocked": false,
+      "claimedByTeamId": null,
+      "claimedAt": null
+    }
+  ],
+  "matches": [
+    {
+      "id": "M1",
+      "code": "M1",
+      "name": "Qualification Match 1",
+      "stage": "ROUND_1",
+      "stageLabel": "Round 1",
+      "slot1": {
+        "type": "DIRECT",
+        "teamId": "A",
+        "label": "A — Duo Devils"
+      },
+      "slot2": {
+        "type": "DIRECT",
+        "teamId": "B",
+        "label": "B — RCC"
+      },
+      "notes": "Winner advances to M5, Loser drops to M7",
+      "team1Id": "A",
+      "team2Id": "B",
+      "winnerId": null,
+      "loserId": null,
+      "status": "LOCKED",
+      "completedAt": null
+    },
+    {
+      "id": "M2",
+      "code": "M2",
+      "name": "Qualification Match 2",
+      "stage": "ROUND_1",
+      "stageLabel": "Round 1",
+      "slot1": {
+        "type": "DIRECT",
+        "teamId": "C",
+        "label": "C — Super Strikers"
+      },
+      "slot2": {
+        "type": "DIRECT",
+        "teamId": "D",
+        "label": "D — Ayan"
+      },
+      "notes": "Winner advances to M5, Loser drops to M7",
+      "team1Id": "C",
+      "team2Id": "D",
+      "winnerId": null,
+      "loserId": null,
+      "status": "LOCKED",
+      "completedAt": null
+    },
+    {
+      "id": "M3",
+      "code": "M3",
+      "name": "Qualification Match 3",
+      "stage": "ROUND_1",
+      "stageLabel": "Round 1",
+      "slot1": {
+        "type": "DIRECT",
+        "teamId": "E",
+        "label": "E — Idi Minnal"
+      },
+      "slot2": {
+        "type": "DIRECT",
+        "teamId": "F",
+        "label": "F — Anbu Vagaira"
+      },
+      "notes": "Winner advances to M6, Loser drops to M8",
+      "team1Id": "E",
+      "team2Id": "F",
+      "winnerId": null,
+      "loserId": null,
+      "status": "LOCKED",
+      "completedAt": null
+    },
+    {
+      "id": "M4",
+      "code": "M4",
+      "name": "Qualification Match 4",
+      "stage": "ROUND_1",
+      "stageLabel": "Round 1",
+      "slot1": {
+        "type": "DIRECT",
+        "teamId": "G",
+        "label": "G — 2-Peru Modhi Paaru"
+      },
+      "slot2": {
+        "type": "DIRECT",
+        "teamId": "H",
+        "label": "H — Nanga 4 La Pathi Peru"
+      },
+      "notes": "Winner advances to M6, Loser drops to M8",
+      "team1Id": "G",
+      "team2Id": "H",
+      "winnerId": null,
+      "loserId": null,
+      "status": "LOCKED",
+      "completedAt": null
+    },
+    {
+      "id": "M5",
+      "code": "M5",
+      "name": "Qualifier 1 Decider",
+      "stage": "ROUND_2",
+      "stageLabel": "Round 2",
+      "slot1": {
+        "type": "WINNER_OF",
+        "referenceId": "M1",
+        "label": "W(M1)"
+      },
+      "slot2": {
+        "type": "WINNER_OF",
+        "referenceId": "M2",
+        "label": "W(M2)"
+      },
+      "notes": "Winner qualifies as Q1 (2 consecutive wins!). Loser drops to Round 3 (L(M5))",
+      "team1Id": null,
+      "team2Id": null,
+      "winnerId": null,
+      "loserId": null,
+      "status": "LOCKED",
+      "completedAt": null
+    },
+    {
+      "id": "M6",
+      "code": "M6",
+      "name": "Qualifier 2 Decider",
+      "stage": "ROUND_2",
+      "stageLabel": "Round 2",
+      "slot1": {
+        "type": "WINNER_OF",
+        "referenceId": "M3",
+        "label": "W(M3)"
+      },
+      "slot2": {
+        "type": "WINNER_OF",
+        "referenceId": "M4",
+        "label": "W(M4)"
+      },
+      "notes": "Winner qualifies as Q2 (2 consecutive wins!). Loser drops to Round 3 (L(M6))",
+      "team1Id": null,
+      "team2Id": null,
+      "winnerId": null,
+      "loserId": null,
+      "status": "LOCKED",
+      "completedAt": null
+    },
+    {
+      "id": "M7",
+      "code": "M7",
+      "name": "Elimination Round Match 1",
+      "stage": "ROUND_2",
+      "stageLabel": "Round 2",
+      "slot1": {
+        "type": "LOSER_OF",
+        "referenceId": "M1",
+        "label": "L(M1)"
+      },
+      "slot2": {
+        "type": "LOSER_OF",
+        "referenceId": "M2",
+        "label": "L(M2)"
+      },
+      "notes": "Winner advances to Round 3 (W(M7)). Loser is Eliminated (E1)",
+      "team1Id": null,
+      "team2Id": null,
+      "winnerId": null,
+      "loserId": null,
+      "status": "LOCKED",
+      "completedAt": null
+    },
+    {
+      "id": "M8",
+      "code": "M8",
+      "name": "Elimination Round Match 2",
+      "stage": "ROUND_2",
+      "stageLabel": "Round 2",
+      "slot1": {
+        "type": "LOSER_OF",
+        "referenceId": "M3",
+        "label": "L(M3)"
+      },
+      "slot2": {
+        "type": "LOSER_OF",
+        "referenceId": "M4",
+        "label": "L(M4)"
+      },
+      "notes": "Winner advances to Round 3 (W(M8)). Loser is Eliminated (E2)",
+      "team1Id": null,
+      "team2Id": null,
+      "winnerId": null,
+      "loserId": null,
+      "status": "LOCKED",
+      "completedAt": null
+    },
+    {
+      "id": "M9",
+      "code": "M9",
+      "name": "Qualifier 3 Decider & Elimination",
+      "stage": "ROUND_3",
+      "stageLabel": "Round 3",
+      "slot1": {
+        "type": "LOSER_OF",
+        "referenceId": "M5",
+        "label": "L(M5)"
+      },
+      "slot2": {
+        "type": "WINNER_OF",
+        "referenceId": "M8",
+        "label": "W(M8)"
+      },
+      "notes": "Winner qualifies as Q3 (2 consecutive wins!). Loser is Eliminated (E3)",
+      "team1Id": null,
+      "team2Id": null,
+      "winnerId": null,
+      "loserId": null,
+      "status": "LOCKED",
+      "completedAt": null
+    },
+    {
+      "id": "M10",
+      "code": "M10",
+      "name": "Qualifier 4 Decider & Elimination",
+      "stage": "ROUND_3",
+      "stageLabel": "Round 3",
+      "slot1": {
+        "type": "LOSER_OF",
+        "referenceId": "M6",
+        "label": "L(M6)"
+      },
+      "slot2": {
+        "type": "WINNER_OF",
+        "referenceId": "M7",
+        "label": "W(M7)"
+      },
+      "notes": "Winner qualifies as Q4 (2 consecutive wins!). Loser is Eliminated (E4)",
+      "team1Id": null,
+      "team2Id": null,
+      "winnerId": null,
+      "loserId": null,
+      "status": "LOCKED",
+      "completedAt": null
+    },
+    {
+      "id": "SF1",
+      "code": "SF1",
+      "name": "Semifinal 1",
+      "stage": "SEMIFINAL",
+      "stageLabel": "Semifinals",
+      "slot1": {
+        "type": "QUALIFIER",
+        "referenceId": "Q1",
+        "label": "Q1 Qualifier"
+      },
+      "slot2": {
+        "type": "QUALIFIER",
+        "referenceId": "Q4",
+        "label": "Q4 Qualifier"
+      },
+      "notes": "Winner advances to Final. Loser plays Third Place Match",
+      "team1Id": null,
+      "team2Id": null,
+      "winnerId": null,
+      "loserId": null,
+      "status": "LOCKED",
+      "completedAt": null
+    },
+    {
+      "id": "SF2",
+      "code": "SF2",
+      "name": "Semifinal 2",
+      "stage": "SEMIFINAL",
+      "stageLabel": "Semifinals",
+      "slot1": {
+        "type": "QUALIFIER",
+        "referenceId": "Q2",
+        "label": "Q2 Qualifier"
+      },
+      "slot2": {
+        "type": "QUALIFIER",
+        "referenceId": "Q3",
+        "label": "Q3 Qualifier"
+      },
+      "notes": "Winner advances to Final. Loser plays Third Place Match",
+      "team1Id": null,
+      "team2Id": null,
+      "winnerId": null,
+      "loserId": null,
+      "status": "LOCKED",
+      "completedAt": null
+    },
+    {
+      "id": "TP",
+      "code": "TP",
+      "name": "Third Place Match",
+      "stage": "THIRD_PLACE",
+      "stageLabel": "Bronze Final",
+      "slot1": {
+        "type": "SF_LOSER",
+        "referenceId": "SF1",
+        "label": "Loser SF1"
+      },
+      "slot2": {
+        "type": "SF_LOSER",
+        "referenceId": "SF2",
+        "label": "Loser SF2"
+      },
+      "notes": "Winner secures 3rd Place 🥉. Loser takes 4th Place",
+      "team1Id": null,
+      "team2Id": null,
+      "winnerId": null,
+      "loserId": null,
+      "status": "LOCKED",
+      "completedAt": null
+    },
+    {
+      "id": "FINAL",
+      "code": "FINAL",
+      "name": "Championship Final",
+      "stage": "FINAL",
+      "stageLabel": "Grand Final",
+      "slot1": {
+        "type": "SF_WINNER",
+        "referenceId": "SF1",
+        "label": "Winner SF1"
+      },
+      "slot2": {
+        "type": "SF_WINNER",
+        "referenceId": "SF2",
+        "label": "Winner SF2"
+      },
+      "notes": "Winner is crowned CARROM CHAMPION 🏆. Loser is Runner-Up 🥈",
+      "team1Id": null,
+      "team2Id": null,
+      "winnerId": null,
+      "loserId": null,
+      "status": "LOCKED",
+      "completedAt": null
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "log_1790332920051_3rbm",
+      "eventType": "FULL_RESET",
+      "description": "Admin performed full tournament reset.",
+      "userId": "user_admin",
+      "username": "admin",
+      "timestamp": "2026-09-25T10:42:00.052Z"
+    },
+    {
+      "id": "log_1790332917383_nfpo",
+      "eventType": "RESULT_ENTERED",
+      "description": "Result recorded for FINAL (Championship Final): Winner A (Duo Devils), Loser C (Super Strikers).",
+      "userId": "user_admin",
+      "username": "admin",
+      "timestamp": "2026-09-25T10:41:57.383Z"
+    },
+    {
+      "id": "log_1790332917383_1926",
+      "eventType": "TOURNAMENT_COMPLETED",
+      "description": "Tournament completed! Champion: Duo Devils",
+      "userId": "system",
+      "username": "System",
+      "timestamp": "2026-09-25T10:41:57.383Z"
+    },
+    {
+      "id": "log_1790332917382_6ovv",
+      "eventType": "RESULT_ENTERED",
+      "description": "Result recorded for TP (Third Place Match): Winner B (RCC), Loser E (Idi Minnal).",
+      "userId": "user_admin",
+      "username": "admin",
+      "timestamp": "2026-09-25T10:41:57.382Z"
+    },
+    {
+      "id": "log_1790332917381_5xj4",
+      "eventType": "RESULT_ENTERED",
+      "description": "Result recorded for SF2 (Semifinal 2): Winner C (Super Strikers), Loser E (Idi Minnal).",
+      "userId": "user_admin",
+      "username": "admin",
+      "timestamp": "2026-09-25T10:41:57.381Z"
+    },
+    {
+      "id": "log_1790332917380_7j1v",
+      "eventType": "RESULT_ENTERED",
+      "description": "Result recorded for SF1 (Semifinal 1): Winner A (Duo Devils), Loser B (RCC).",
+      "userId": "user_admin",
+      "username": "admin",
+      "timestamp": "2026-09-25T10:41:57.380Z"
+    },
+    {
+      "id": "log_1790332917379_69bf",
+      "eventType": "RESULT_ENTERED",
+      "description": "Result recorded for M10 (Qualifier 4 Decider & Elimination): Winner B (RCC), Loser G (2-Peru Modhi Paaru).",
+      "userId": "user_admin",
+      "username": "admin",
+      "timestamp": "2026-09-25T10:41:57.379Z"
+    },
+    {
+      "id": "log_1790332917379_pxwo",
+      "eventType": "QUALIFICATION_COMPLETED",
+      "description": "All 4 qualifiers determined: Q1=Duo Devils, Q2=Idi Minnal, Q3=Super Strikers, Q4=RCC. Semifinals ready.",
+      "userId": "system",
+      "username": "System",
+      "timestamp": "2026-09-25T10:41:57.379Z"
+    },
+    {
+      "id": "log_1790332917378_o1gb",
+      "eventType": "RESULT_ENTERED",
+      "description": "Result recorded for M9 (Qualifier 3 Decider & Elimination): Winner C (Super Strikers), Loser F (Anbu Vagaira).",
+      "userId": "user_admin",
+      "username": "admin",
+      "timestamp": "2026-09-25T10:41:57.378Z"
+    },
+    {
+      "id": "log_1790332917377_hjth",
+      "eventType": "RESULT_ENTERED",
+      "description": "Result recorded for M8 (Elimination Round Match 2): Winner F (Anbu Vagaira), Loser H (Nanga 4 La Pathi Peru).",
+      "userId": "user_admin",
+      "username": "admin",
+      "timestamp": "2026-09-25T10:41:57.377Z"
+    },
+    {
+      "id": "log_1790332917376_at7x",
+      "eventType": "RESULT_ENTERED",
+      "description": "Result recorded for M7 (Elimination Round Match 1): Winner B (RCC), Loser D (Ayan).",
+      "userId": "user_admin",
+      "username": "admin",
+      "timestamp": "2026-09-25T10:41:57.376Z"
+    },
+    {
+      "id": "log_1790332917375_85vq",
+      "eventType": "RESULT_ENTERED",
+      "description": "Result recorded for M6 (Qualifier 2 Decider): Winner E (Idi Minnal), Loser G (2-Peru Modhi Paaru).",
+      "userId": "user_admin",
+      "username": "admin",
+      "timestamp": "2026-09-25T10:41:57.375Z"
+    },
+    {
+      "id": "log_1790332917373_jkpk",
+      "eventType": "RESULT_ENTERED",
+      "description": "Result recorded for M5 (Qualifier 1 Decider): Winner A (Duo Devils), Loser C (Super Strikers).",
+      "userId": "user_admin",
+      "username": "admin",
+      "timestamp": "2026-09-25T10:41:57.373Z"
+    },
+    {
+      "id": "log_1790332917372_ko13",
+      "eventType": "RESULT_ENTERED",
+      "description": "Result recorded for M4 (Qualification Match 4): Winner G (2-Peru Modhi Paaru), Loser H (Nanga 4 La Pathi Peru).",
+      "userId": "user_admin",
+      "username": "admin",
+      "timestamp": "2026-09-25T10:41:57.372Z"
+    },
+    {
+      "id": "log_1790332917371_pz1m",
+      "eventType": "RESULT_ENTERED",
+      "description": "Result recorded for M3 (Qualification Match 3): Winner E (Idi Minnal), Loser F (Anbu Vagaira).",
+      "userId": "user_admin",
+      "username": "admin",
+      "timestamp": "2026-09-25T10:41:57.371Z"
+    },
+    {
+      "id": "log_1790332917371_tom5",
+      "eventType": "RESULT_ENTERED",
+      "description": "Result recorded for M2 (Qualification Match 2): Winner C (Super Strikers), Loser D (Ayan).",
+      "userId": "user_admin",
+      "username": "admin",
+      "timestamp": "2026-09-25T10:41:57.371Z"
+    },
+    {
+      "id": "log_1790332917370_5fyj",
+      "eventType": "RESULT_ENTERED",
+      "description": "Result recorded for M1 (Qualification Match 1): Winner A (Duo Devils), Loser B (RCC).",
+      "userId": "user_admin",
+      "username": "admin",
+      "timestamp": "2026-09-25T10:41:57.370Z"
+    },
+    {
+      "id": "log_1790332917368_v6x5",
+      "eventType": "TOURNAMENT_STARTED",
+      "description": "Tournament started. M1-M4 are ready.",
+      "userId": "user_admin",
+      "username": "admin",
+      "timestamp": "2026-09-25T10:41:57.368Z"
+    },
+    {
+      "id": "log_1790332917367_3drr",
+      "eventType": "FULL_RESET",
+      "description": "Admin performed full tournament reset.",
+      "userId": "user_admin",
+      "username": "admin",
+      "timestamp": "2026-09-25T10:41:57.367Z"
+    },
+    {
+      "id": "log_1790332917317_138h",
+      "eventType": "MYSTERY_AUTO_DRAW",
+      "description": "Admin triggered auto-draw for all 8 mystery boxes. M1-M4 fixtures updated.",
+      "userId": "user_admin",
+      "username": "admin",
+      "timestamp": "2026-09-25T10:41:57.317Z"
+    },
+    {
+      "id": "log_1790332917316_73wn",
+      "eventType": "MYSTERY_DRAW_RESET",
+      "description": "Admin reset all mystery box assignments and reverted M1-M4 to default teams.",
+      "userId": "user_admin",
+      "username": "admin",
+      "timestamp": "2026-09-25T10:41:57.316Z"
+    },
+    {
+      "id": "log_1790332917314_lrpv",
+      "eventType": "MYSTERY_DRAW_COMPLETED",
+      "description": "All 8 mystery boxes have been successfully claimed. M1-M4 fixtures updated.",
+      "userId": "system",
+      "username": "System",
+      "timestamp": "2026-09-25T10:41:57.314Z"
+    },
+    {
+      "id": "log_1790332917314_qod7",
+      "eventType": "BOX_CLAIMED",
+      "description": "User team_e claimed Mystery Box 8 (E - Idi Minnal).",
+      "userId": "user_team_e",
+      "username": "team_e",
+      "timestamp": "2026-09-25T10:41:57.314Z"
+    },
+    {
+      "id": "log_1790332917314_e6do",
+      "eventType": "BOX_CLAIMED",
+      "description": "User team_b claimed Mystery Box 7 (B - RCC).",
+      "userId": "user_team_b",
+      "username": "team_b",
+      "timestamp": "2026-09-25T10:41:57.314Z"
+    },
+    {
+      "id": "log_1790332917313_zrpv",
+      "eventType": "BOX_CLAIMED",
+      "description": "User team_d claimed Mystery Box 6 (D - Ayan).",
+      "userId": "user_team_d",
+      "username": "team_d",
+      "timestamp": "2026-09-25T10:41:57.313Z"
+    },
+    {
+      "id": "log_1790332917313_f364",
+      "eventType": "BOX_CLAIMED",
+      "description": "User team_g claimed Mystery Box 5 (G - 2-Peru Modhi Paaru).",
+      "userId": "user_team_g",
+      "username": "team_g",
+      "timestamp": "2026-09-25T10:41:57.313Z"
+    },
+    {
+      "id": "log_1790332917312_i39i",
+      "eventType": "BOX_CLAIMED",
+      "description": "User team_h claimed Mystery Box 3 (H - Nanga 4 La Pathi Peru).",
+      "userId": "user_team_h",
+      "username": "team_h",
+      "timestamp": "2026-09-25T10:41:57.312Z"
+    },
+    {
+      "id": "log_1790332917311_d9rp",
+      "eventType": "BOX_CLAIMED",
+      "description": "User team_c claimed Mystery Box 2 (C - Super Strikers).",
+      "userId": "user_team_c",
+      "username": "team_c",
+      "timestamp": "2026-09-25T10:41:57.311Z"
+    },
+    {
+      "id": "log_1790332917311_ylal",
+      "eventType": "BOX_CLAIMED",
+      "description": "User team_f claimed Mystery Box 1 (F - Anbu Vagaira).",
+      "userId": "user_team_f",
+      "username": "team_f",
+      "timestamp": "2026-09-25T10:41:57.311Z"
+    },
+    {
+      "id": "log_1790332917310_np8q",
+      "eventType": "BOX_CLAIMED",
+      "description": "User team_a claimed Mystery Box 4 (A - Duo Devils).",
+      "userId": "user_team_a",
+      "username": "team_a",
+      "timestamp": "2026-09-25T10:41:57.310Z"
+    },
+    {
+      "id": "log_1790332917309_jyz1",
+      "eventType": "MYSTERY_DRAW_OPENED",
+      "description": "Admin opened mystery box selection for teams.",
+      "userId": "user_admin",
+      "username": "admin",
+      "timestamp": "2026-09-25T10:41:57.309Z"
+    },
+    {
+      "id": "log_1790332917307_m92v",
+      "eventType": "FULL_RESET",
+      "description": "Admin performed full tournament reset.",
+      "userId": "user_admin",
+      "username": "admin",
+      "timestamp": "2026-09-25T10:41:57.307Z"
+    },
+    {
+      "id": "log_1790332906657_43xd",
+      "eventType": "MYSTERY_DRAW_RESET",
+      "description": "Admin reset all mystery box assignments and reverted M1-M4 to default teams.",
+      "userId": "user_admin",
+      "username": "admin",
+      "timestamp": "2026-09-25T10:41:46.657Z"
+    },
+    {
+      "id": "log_1790332906656_4490",
+      "eventType": "MYSTERY_AUTO_DRAW",
+      "description": "Admin triggered auto-draw for all 8 mystery boxes. M1-M4 fixtures updated.",
+      "userId": "user_admin",
+      "username": "admin",
+      "timestamp": "2026-09-25T10:41:46.656Z"
+    },
+    {
+      "id": "log_1790332906654_v2gc",
+      "eventType": "MYSTERY_DRAW_RESET",
+      "description": "Admin reset all mystery box assignments and reverted M1-M4 to default teams.",
+      "userId": "user_admin",
+      "username": "admin",
+      "timestamp": "2026-09-25T10:41:46.654Z"
+    },
+    {
+      "id": "log_1790332906652_ebux",
+      "eventType": "MYSTERY_DRAW_COMPLETED",
+      "description": "All 8 mystery boxes have been successfully claimed. M1-M4 fixtures updated.",
+      "userId": "system",
+      "username": "System",
+      "timestamp": "2026-09-25T10:41:46.652Z"
+    },
+    {
+      "id": "log_1790332906652_mhoc",
+      "eventType": "BOX_CLAIMED",
+      "description": "User team_e claimed Mystery Box 8 (E - Idi Minnal).",
+      "userId": "user_team_e",
+      "username": "team_e",
+      "timestamp": "2026-09-25T10:41:46.652Z"
+    },
+    {
+      "id": "log_1790332906652_1gyt",
+      "eventType": "BOX_CLAIMED",
+      "description": "User team_b claimed Mystery Box 7 (B - RCC).",
+      "userId": "user_team_b",
+      "username": "team_b",
+      "timestamp": "2026-09-25T10:41:46.652Z"
+    },
+    {
+      "id": "log_1790332906651_uel6",
+      "eventType": "BOX_CLAIMED",
+      "description": "User team_d claimed Mystery Box 6 (D - Ayan).",
+      "userId": "user_team_d",
+      "username": "team_d",
+      "timestamp": "2026-09-25T10:41:46.651Z"
+    },
+    {
+      "id": "log_1790332906651_ju2q",
+      "eventType": "BOX_CLAIMED",
+      "description": "User team_g claimed Mystery Box 5 (G - 2-Peru Modhi Paaru).",
+      "userId": "user_team_g",
+      "username": "team_g",
+      "timestamp": "2026-09-25T10:41:46.651Z"
+    },
+    {
+      "id": "log_1790332906651_snav",
+      "eventType": "BOX_CLAIMED",
+      "description": "User team_h claimed Mystery Box 3 (H - Nanga 4 La Pathi Peru).",
+      "userId": "user_team_h",
+      "username": "team_h",
+      "timestamp": "2026-09-25T10:41:46.651Z"
+    },
+    {
+      "id": "log_1790332906650_8kuv",
+      "eventType": "BOX_CLAIMED",
+      "description": "User team_c claimed Mystery Box 2 (C - Super Strikers).",
+      "userId": "user_team_c",
+      "username": "team_c",
+      "timestamp": "2026-09-25T10:41:46.650Z"
+    },
+    {
+      "id": "log_1790332906649_mhh8",
+      "eventType": "BOX_CLAIMED",
+      "description": "User team_f claimed Mystery Box 1 (F - Anbu Vagaira).",
+      "userId": "user_team_f",
+      "username": "team_f",
+      "timestamp": "2026-09-25T10:41:46.649Z"
+    },
+    {
+      "id": "log_1790332906649_ulmx",
+      "eventType": "BOX_CLAIMED",
+      "description": "User team_a claimed Mystery Box 4 (A - Duo Devils).",
+      "userId": "user_team_a",
+      "username": "team_a",
+      "timestamp": "2026-09-25T10:41:46.649Z"
+    },
+    {
+      "id": "log_1790332906648_eapd",
+      "eventType": "MYSTERY_DRAW_OPENED",
+      "description": "Admin opened mystery box selection for teams.",
+      "userId": "user_admin",
+      "username": "admin",
+      "timestamp": "2026-09-25T10:41:46.648Z"
+    },
+    {
+      "id": "log_1790332906646_cptu",
+      "eventType": "FULL_RESET",
+      "description": "Admin performed full tournament reset.",
+      "userId": "user_admin",
+      "username": "admin",
+      "timestamp": "2026-09-25T10:41:46.647Z"
+    },
+    {
+      "id": "log_1790332896130_e9it",
+      "eventType": "MYSTERY_DRAW_RESET",
+      "description": "Admin reset all mystery box assignments and reverted M1-M4 to default teams.",
+      "userId": "user_admin",
+      "username": "admin",
+      "timestamp": "2026-09-25T10:41:36.130Z"
+    },
+    {
+      "id": "log_1790332896128_r2w9",
+      "eventType": "MYSTERY_AUTO_DRAW",
+      "description": "Admin triggered auto-draw for all 8 mystery boxes. M1-M4 fixtures updated.",
+      "userId": "user_admin",
+      "username": "admin",
+      "timestamp": "2026-09-25T10:41:36.128Z"
+    },
+    {
+      "id": "log_1790332896126_z974",
+      "eventType": "MYSTERY_DRAW_RESET",
+      "description": "Admin reset all mystery box assignments and reverted M1-M4 to default teams.",
+      "userId": "user_admin",
+      "username": "admin",
+      "timestamp": "2026-09-25T10:41:36.126Z"
+    },
+    {
+      "id": "log_1790332896120_nipu",
+      "eventType": "MYSTERY_DRAW_COMPLETED",
+      "description": "All 8 mystery boxes have been successfully claimed. M1-M4 fixtures updated.",
+      "userId": "system",
+      "username": "System",
+      "timestamp": "2026-09-25T10:41:36.120Z"
+    },
+    {
+      "id": "log_1790332896120_7qoy",
+      "eventType": "BOX_CLAIMED",
+      "description": "User team_e claimed Mystery Box 8 (E - Idi Minnal).",
+      "userId": "user_team_e",
+      "username": "team_e",
+      "timestamp": "2026-09-25T10:41:36.120Z"
+    },
+    {
+      "id": "log_1790332896119_ffnx",
+      "eventType": "BOX_CLAIMED",
+      "description": "User team_b claimed Mystery Box 7 (B - RCC).",
+      "userId": "user_team_b",
+      "username": "team_b",
+      "timestamp": "2026-09-25T10:41:36.119Z"
+    },
+    {
+      "id": "log_1790332896119_8608",
+      "eventType": "BOX_CLAIMED",
+      "description": "User team_d claimed Mystery Box 6 (D - Ayan).",
+      "userId": "user_team_d",
+      "username": "team_d",
+      "timestamp": "2026-09-25T10:41:36.119Z"
+    },
+    {
+      "id": "log_1790332896118_gygv",
+      "eventType": "BOX_CLAIMED",
+      "description": "User team_g claimed Mystery Box 5 (G - 2-Peru Modhi Paaru).",
+      "userId": "user_team_g",
+      "username": "team_g",
+      "timestamp": "2026-09-25T10:41:36.118Z"
+    },
+    {
+      "id": "log_1790332896118_lyt0",
+      "eventType": "BOX_CLAIMED",
+      "description": "User team_h claimed Mystery Box 3 (H - Nanga 4 La Pathi Peru).",
+      "userId": "user_team_h",
+      "username": "team_h",
+      "timestamp": "2026-09-25T10:41:36.118Z"
+    },
+    {
+      "id": "log_1790332896117_3rfi",
+      "eventType": "BOX_CLAIMED",
+      "description": "User team_c claimed Mystery Box 2 (C - Super Strikers).",
+      "userId": "user_team_c",
+      "username": "team_c",
+      "timestamp": "2026-09-25T10:41:36.117Z"
+    },
+    {
+      "id": "log_1790332896115_6c5i",
+      "eventType": "BOX_CLAIMED",
+      "description": "User team_f claimed Mystery Box 1 (F - Anbu Vagaira).",
+      "userId": "user_team_f",
+      "username": "team_f",
+      "timestamp": "2026-09-25T10:41:36.115Z"
+    },
+    {
+      "id": "log_1790332896113_k9j2",
+      "eventType": "BOX_CLAIMED",
+      "description": "User team_a claimed Mystery Box 4 (A - Duo Devils).",
+      "userId": "user_team_a",
+      "username": "team_a",
+      "timestamp": "2026-09-25T10:41:36.113Z"
+    },
+    {
+      "id": "log_1790332896108_v0a2",
+      "eventType": "MYSTERY_DRAW_OPENED",
+      "description": "Admin opened mystery box selection for teams.",
+      "userId": "user_admin",
+      "username": "admin",
+      "timestamp": "2026-09-25T10:41:36.108Z"
+    },
+    {
+      "id": "log_1790332896092_8k95",
+      "eventType": "FULL_RESET",
+      "description": "Admin performed full tournament reset.",
+      "userId": "user_admin",
+      "username": "admin",
+      "timestamp": "2026-09-25T10:41:36.096Z"
+    },
+    {
+      "id": "log_init",
+      "eventType": "SYSTEM_INITIALIZED",
+      "description": "Tournament system initialized with 8 teams and fixtures.",
+      "userId": "system",
+      "username": "System",
+      "timestamp": "2026-09-25T10:26:26.968Z"
+    }
+  ]
+}
